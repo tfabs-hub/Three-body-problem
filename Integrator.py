@@ -7,7 +7,7 @@ class Body:
         self.velocity = velocity
 
 def compute_forces(bodies):
-    G = 6.67430e-11
+    G = 1
     forces = []
     for i in range(len(bodies)):
         force = np.zeros(3)
