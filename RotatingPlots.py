@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from Rnbody import solve_n_body_problem, Body, plot_helper
+from RotatingFrame import solve_n_body_problem, Body, plot_helper
 
 
 ##L1 Lagrange Points
